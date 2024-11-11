@@ -1149,12 +1149,14 @@ margin: 0 auto;
       font-size: 17px;
   }
 
+/* 
   @media (max-width:540px){
     .our-Partners .overflow-hidden img{
       width: 130px;
       height: 90px;
     }
   }
+*/
 
   /* our clients end */
 
